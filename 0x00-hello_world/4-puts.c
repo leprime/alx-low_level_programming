@@ -2,9 +2,8 @@
 
 /**
  * main function for printing 
- * Return : 0
+ * Return 
  */
-
 int main(void)
 {
 
