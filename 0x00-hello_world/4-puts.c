@@ -1,7 +1,7 @@
 /* Printing text */
 #include <stdio.h>
 
- int main(void) 
+int main(void)
 	/* Main function */
 	/* puts is a printing fonction*/
 {
